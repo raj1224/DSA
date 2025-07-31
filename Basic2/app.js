@@ -187,6 +187,7 @@ let num = 0.2 + 0.1
 switch(num){
     case 0.3:
         console.log('hello'); //because .2 +.1 =.300000001
+        // home work how to fix this
         break
     case 0.4:
         console.log('hslafa');
